@@ -46,7 +46,7 @@ A **real-time weather application** with API integration, dynamic icons, and an 
 - ☁️ **AWS Cloud Practitioner (AWS CloudQuest)**
 
 ## 📊 GitHub Stats
-![Sejal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sejalkamboj&show_icons=true&theme=radical)
+![Sejal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sejalkamboj&show_icons=true&theme=radical&cache_seconds=1800)
 
 ---
 
